@@ -1,0 +1,108 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "7c9ddc90-c2a3-792a-9807-f7f111a8ab3d": {
+            "project_name": "wumpus",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\wumpus\\head.json",
+                "assets\\animated_java\\models\\item\\wumpus\\body.json",
+                "assets\\animated_java\\models\\item\\wumpus\\arm_left.json",
+                "assets\\animated_java\\models\\item\\wumpus\\arm_right.json",
+                "assets\\animated_java\\models\\item\\wumpus\\leg_left.json",
+                "assets\\animated_java\\models\\item\\wumpus\\leg_right.json",
+                "assets\\animated_java\\textures\\item\\wumpus\\wumpus.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "58d5ac47-38c7-37d2-857a-0942fb3c9d8a": {
+            "project_name": "floophead",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\floophead\\head.json",
+                "assets\\animated_java\\models\\item\\floophead\\body.json",
+                "assets\\animated_java\\models\\item\\floophead\\rightarm.json",
+                "assets\\animated_java\\models\\item\\floophead\\leftarm.json",
+                "assets\\animated_java\\models\\item\\floophead\\rightleg.json",
+                "assets\\animated_java\\models\\item\\floophead\\leftleg.json",
+                "assets\\animated_java\\textures\\item\\floophead\\floop_scientist.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "48b8be1a-8807-c7a1-ef9f-9fabb278281a": {
+            "project_name": "xtreemes",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\xtreemes\\head.json",
+                "assets\\animated_java\\models\\item\\xtreemes\\body.json",
+                "assets\\animated_java\\models\\item\\xtreemes\\rightarm.json",
+                "assets\\animated_java\\models\\item\\xtreemes\\leftarm.json",
+                "assets\\animated_java\\models\\item\\xtreemes\\rightleg.json",
+                "assets\\animated_java\\models\\item\\xtreemes\\leftleg.json",
+                "assets\\animated_java\\textures\\item\\xtreemes\\xtreem.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "af41b04e-7c66-750e-92e4-8f32dad63c1b": {
+            "project_name": "pixlii",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\pixlii\\head.json",
+                "assets\\animated_java\\models\\item\\pixlii\\body.json",
+                "assets\\animated_java\\models\\item\\pixlii\\rightarm.json",
+                "assets\\animated_java\\models\\item\\pixlii\\leftarm.json",
+                "assets\\animated_java\\models\\item\\pixlii\\rightleg.json",
+                "assets\\animated_java\\models\\item\\pixlii\\leftleg.json",
+                "assets\\animated_java\\textures\\item\\pixlii\\aurora_fuck.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "cd2b85ab-b01c-caea-ad9d-02f3f09a7f68": {
+            "project_name": "aurora_truck",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\aurora_truck\\body.json",
+                "assets\\animated_java\\models\\item\\aurora_truck\\axle.json",
+                "assets\\animated_java\\models\\item\\aurora_truck\\axle2.json",
+                "assets\\animated_java\\textures\\item\\aurora_truck\\truck.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "undefined": {
+            "project_name": "endersaltz",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\endersaltz\\head.json",
+                "assets\\animated_java\\models\\item\\endersaltz\\body.json",
+                "assets\\animated_java\\models\\item\\endersaltz\\rightarm.json",
+                "assets\\animated_java\\models\\item\\endersaltz\\leftarm.json",
+                "assets\\animated_java\\models\\item\\endersaltz\\rightleg.json",
+                "assets\\animated_java\\models\\item\\endersaltz\\leftleg.json",
+                "assets\\animated_java\\models\\item\\endersaltz\\gun.json",
+                "assets\\animated_java\\textures\\item\\endersaltz\\enders.png",
+                "assets\\animated_java\\textures\\item\\endersaltz\\pump.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "cb41cdb1-dc28-8147-1b1c-074feeb8a281": {
+            "project_name": "foundation_chinook",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\foundation_chinook\\bone6.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\bone5.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\bone4.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\axle2.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\bone.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\bone2.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\bone3.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\axle.json",
+                "assets\\animated_java\\models\\item\\foundation_chinook\\root.json",
+                "assets\\animated_java\\textures\\item\\foundation_chinook\\texture.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "2628ec07-f33a-db26-5fb0-088f62b4ae30": {
+            "project_name": "aurora_truck",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\aurora_truck\\body.json",
+                "assets\\animated_java\\models\\item\\aurora_truck\\axle.json",
+                "assets\\animated_java\\models\\item\\aurora_truck\\axle2.json",
+                "assets\\animated_java\\textures\\item\\aurora_truck\\painandsuffering.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

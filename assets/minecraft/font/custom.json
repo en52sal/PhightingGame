@@ -1,0 +1,7 @@
+{
+    "providers": [
+        {"type":"bitmap", "file":"font/negative.png", "ascent":-2000, "height":-3, "chars":["-"]},
+        {"type":"bitmap", "file":"font/negative.png", "ascent":-2000, "height":-1002, "chars":["="]},
+		{"type":"bitmap", "file":"font/1px.png", "ascent":256, "height":1024, "chars":["|"]}
+    ]
+}
