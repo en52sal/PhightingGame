@@ -1,0 +1,14 @@
+{
+    "parent": "builtin/entity",
+    "textures": {
+        "particle": "block/soul_sand"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 0, 25, 0 ],
+            "translation": [ -4, 34.5, 12 ],
+            "scale": [ 0.95, 0.95, 0.95 ]
+        }
+    },
+    "gui_light": "front"
+}

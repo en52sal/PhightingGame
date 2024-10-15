@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_boots"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/cards/card_ricochet_bullets"},
+
+
+		{"predicate": {"custom_model_data":100}, "model" : "item/leather_boots"}
+
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/gui/guihead",
+  "textures": {
+    "layer0": "minecraft:item/gui/guihead"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/gui/uphead"},
+    		{"predicate": {"custom_model_data":2}, "model": "item/gui/mini_head"},
+		{"predicate": {"custom_model_data":10}, "model": "item/template_skull"}
+	]
+}

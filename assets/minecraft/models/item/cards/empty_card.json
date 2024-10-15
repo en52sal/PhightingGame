@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/cards/card_base",
+    "layer1": "minecraft:item/card/card_ricochet_bullets"
+  }
+}

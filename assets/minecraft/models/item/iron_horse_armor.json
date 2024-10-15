@@ -1,0 +1,84 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_horse_armor"
+  },
+	"overrides": [
+
+		{"predicate": {"custom_model_data":1}, "model": "item/weapon/primary/vector/default"},
+		{"predicate": {"custom_model_data":2}, "model": "item/weapon/primary/vector/firing"},
+		{"predicate": {"custom_model_data":3}, "model": "item/weapon/primary/vector/running"},
+		{"predicate": {"custom_model_data":4}, "model": "item/weapon/primary/vector/equipping"},
+		{"predicate": {"custom_model_data":5}, "model": "item/weapon/primary/vector/reloading"},
+
+		{"predicate": {"custom_model_data":11}, "model": "item/weapon/primary/verdant/default"},
+		{"predicate": {"custom_model_data":12}, "model": "item/weapon/primary/verdant/firing"},
+		{"predicate": {"custom_model_data":13}, "model": "item/weapon/primary/verdant/running"},
+		{"predicate": {"custom_model_data":14}, "model": "item/weapon/primary/verdant/equipping"},
+		{"predicate": {"custom_model_data":15}, "model": "item/weapon/primary/verdant/reloading"},
+
+		{"predicate": {"custom_model_data":21}, "model": "item/weapon/primary/grand/default"},
+		{"predicate": {"custom_model_data":22}, "model": "item/weapon/primary/grand/firing"},
+		{"predicate": {"custom_model_data":23}, "model": "item/weapon/primary/grand/running"},
+		{"predicate": {"custom_model_data":24}, "model": "item/weapon/primary/grand/equipping"},
+		{"predicate": {"custom_model_data":25}, "model": "item/weapon/primary/grand/reloading"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{"predicate": {"custom_model_data":500}, "model": "item/iron_horse_armor"}
+
+	]
+}

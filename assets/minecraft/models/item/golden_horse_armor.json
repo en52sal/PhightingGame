@@ -1,0 +1,82 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_horse_armor"
+  },
+	"overrides": [
+
+		{"predicate": {"custom_model_data":1}, "model": "item/weapon/secondary/broker/default"},
+		{"predicate": {"custom_model_data":2}, "model": "item/weapon/secondary/broker/firing"},
+		{"predicate": {"custom_model_data":3}, "model": "item/weapon/secondary/broker/running"},
+		{"predicate": {"custom_model_data":4}, "model": "item/weapon/secondary/broker/equipping"},
+		{"predicate": {"custom_model_data":5}, "model": "item/weapon/secondary/broker/reloading"},
+
+		{"predicate": {"custom_model_data":11}, "model": "item/weapon/secondary/winger/default"},
+		{"predicate": {"custom_model_data":12}, "model": "item/weapon/secondary/winger/firing"},
+		{"predicate": {"custom_model_data":13}, "model": "item/weapon/secondary/winger/running"},
+		{"predicate": {"custom_model_data":14}, "model": "item/weapon/secondary/winger/equipping"},
+		{"predicate": {"custom_model_data":15}, "model": "item/weapon/secondary/winger/reloading"},
+
+		{"predicate": {"custom_model_data":21}, "model": "item/weapon/secondary/shredder/default"},
+		{"predicate": {"custom_model_data":22}, "model": "item/weapon/secondary/shredder/firing"},
+		{"predicate": {"custom_model_data":23}, "model": "item/weapon/secondary/shredder/running"},
+		{"predicate": {"custom_model_data":24}, "model": "item/weapon/secondary/shredder/equipping"},
+		{"predicate": {"custom_model_data":25}, "model": "item/weapon/secondary/shredder/reloading"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{"predicate": {"custom_model_data":300}, "model" : "item/golden_horse_armor"}
+
+	]
+}
