@@ -23,8 +23,11 @@
 		{"predicate": {"custom_model_data":24}, "model": "item/weapon/secondary/shredder/equipping"},
 		{"predicate": {"custom_model_data":25}, "model": "item/weapon/secondary/shredder/reloading"},
 
-
-
+		{"predicate": {"custom_model_data":31}, "model": "item/weapon/secondary/purity/default"},
+		{"predicate": {"custom_model_data":32}, "model": "item/weapon/secondary/purity/firing"},
+		{"predicate": {"custom_model_data":33}, "model": "item/weapon/secondary/purity/running"},
+		{"predicate": {"custom_model_data":34}, "model": "item/weapon/secondary/purity/equipping"},
+		{"predicate": {"custom_model_data":35}, "model": "item/weapon/secondary/purity/reloading"},
 
 
 
