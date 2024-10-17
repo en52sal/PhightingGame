@@ -168,11 +168,7 @@
 	{
 		"sounds":[
 		{"name":"items/honk1"},
-		{"name":"items/honk2"},
-		{"name":"items/honk3"},
-		{"name":"items/honk4"},
-		{"name":"items/honk6"},
-		{"name":"items/honk5"}
+		{"name":"items/honk2"}
 		]
 	},
 
