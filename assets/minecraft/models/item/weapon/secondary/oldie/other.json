@@ -135,12 +135,10 @@
 			"scale": [0.69, 0.69, 0.69]
 		},
 		"firstperson_righthand": {
-			"rotation": [7, 0, 0],
-			"translation": [0.75, 17, -2.25]
+			"translation": [0.75, 17, -2.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [7, 0, 0],
-			"translation": [0.75, 17, -2.25]
+			"translation": [0.75, 17, -2.75]
 		},
 		"gui": {
 			"rotation": [-163.56, 52.02, -176.11],

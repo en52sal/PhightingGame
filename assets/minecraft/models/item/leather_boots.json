@@ -24,7 +24,7 @@
 		{"predicate": {"custom_model_data":18}, "model": "item/relics/speed"},
 		{"predicate": {"custom_model_data":19}, "model": "item/relics/quick_draw"},
 		{"predicate": {"custom_model_data":20}, "model": "item/relics/rocket_boots"},
-		{"predicate": {"custom_model_data":21}, "model": "item/relics/hearty"},
+		{"predicate": {"custom_model_data":21}, "model": "item/relics/not_so_friendly_fire"},
 
 
 
