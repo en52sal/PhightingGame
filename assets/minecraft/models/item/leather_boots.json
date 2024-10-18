@@ -20,10 +20,10 @@
 		{"predicate": {"custom_model_data":14}, "model": "item/relics/frost_bullets"},
 		{"predicate": {"custom_model_data":15}, "model": "item/relics/leech"},
 		{"predicate": {"custom_model_data":16}, "model": "item/relics/meteor_shower"},
-		{"predicate": {"custom_model_data":17}, "model": "item/relics/hearty"},
-		{"predicate": {"custom_model_data":18}, "model": "item/relics/hearty"},
-		{"predicate": {"custom_model_data":19}, "model": "item/relics/hearty"},
-		{"predicate": {"custom_model_data":20}, "model": "item/relics/hearty"},
+		{"predicate": {"custom_model_data":17}, "model": "item/relics/ninja"},
+		{"predicate": {"custom_model_data":18}, "model": "item/relics/speed"},
+		{"predicate": {"custom_model_data":19}, "model": "item/relics/quick_draw"},
+		{"predicate": {"custom_model_data":20}, "model": "item/relics/rocket_boots"},
 		{"predicate": {"custom_model_data":21}, "model": "item/relics/hearty"},
 
 
