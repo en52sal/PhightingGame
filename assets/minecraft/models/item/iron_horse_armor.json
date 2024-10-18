@@ -29,7 +29,11 @@
 		{"predicate": {"custom_model_data":34}, "model": "item/weapon/primary/surge/equipping"},
 		{"predicate": {"custom_model_data":35}, "model": "item/weapon/primary/surge/reloading"},
 
-
+		{"predicate": {"custom_model_data":41}, "model": "item/weapon/primary/chopper/default"},
+		{"predicate": {"custom_model_data":42}, "model": "item/weapon/primary/chopper/firing"},
+		{"predicate": {"custom_model_data":43}, "model": "item/weapon/primary/chopper/running"},
+		{"predicate": {"custom_model_data":44}, "model": "item/weapon/primary/chopper/equipping"},
+		{"predicate": {"custom_model_data":45}, "model": "item/weapon/primary/chopper/reloading"},
 
 
 

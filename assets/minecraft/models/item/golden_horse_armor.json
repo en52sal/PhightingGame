@@ -29,8 +29,11 @@
 		{"predicate": {"custom_model_data":34}, "model": "item/weapon/secondary/purity/equipping"},
 		{"predicate": {"custom_model_data":35}, "model": "item/weapon/secondary/purity/reloading"},
 
-
-
+		{"predicate": {"custom_model_data":41}, "model": "item/weapon/secondary/oldie/default"},
+		{"predicate": {"custom_model_data":42}, "model": "item/weapon/secondary/oldie/firing"},
+		{"predicate": {"custom_model_data":43}, "model": "item/weapon/secondary/oldie/running"},
+		{"predicate": {"custom_model_data":44}, "model": "item/weapon/secondary/oldie/equipping"},
+		{"predicate": {"custom_model_data":45}, "model": "item/weapon/secondary/oldie/reloading"},
 
 
 
