@@ -36,13 +36,29 @@
 		{"predicate": {"custom_model_data":45}, "model": "item/weapon/secondary/oldie/reloading"},
 		{"predicate": {"custom_model_data":46}, "model": "item/weapon/secondary/oldie/other"},
 
+		{"predicate": {"custom_model_data":51}, "model": "item/weapon/secondary/cower/default"},
+		{"predicate": {"custom_model_data":52}, "model": "item/weapon/secondary/cower/firing"},
+		{"predicate": {"custom_model_data":53}, "model": "item/weapon/secondary/cower/running"},
+		{"predicate": {"custom_model_data":54}, "model": "item/weapon/secondary/cower/equipping"},
+		{"predicate": {"custom_model_data":55}, "model": "item/weapon/secondary/cower/reloading"},
 
+		{"predicate": {"custom_model_data":61}, "model": "item/weapon/secondary/oldie/default"},
+		{"predicate": {"custom_model_data":62}, "model": "item/weapon/secondary/oldie/firing"},
+		{"predicate": {"custom_model_data":63}, "model": "item/weapon/secondary/oldie/running"},
+		{"predicate": {"custom_model_data":64}, "model": "item/weapon/secondary/oldie/equipping"},
+		{"predicate": {"custom_model_data":65}, "model": "item/weapon/secondary/oldie/reloading"},
 
+		{"predicate": {"custom_model_data":71}, "model": "item/weapon/secondary/oldie/default"},
+		{"predicate": {"custom_model_data":72}, "model": "item/weapon/secondary/oldie/firing"},
+		{"predicate": {"custom_model_data":73}, "model": "item/weapon/secondary/oldie/running"},
+		{"predicate": {"custom_model_data":74}, "model": "item/weapon/secondary/oldie/equipping"},
+		{"predicate": {"custom_model_data":75}, "model": "item/weapon/secondary/oldie/reloading"},
 
-
-
-
-
+		{"predicate": {"custom_model_data":81}, "model": "item/weapon/secondary/oldie/default"},
+		{"predicate": {"custom_model_data":82}, "model": "item/weapon/secondary/oldie/firing"},
+		{"predicate": {"custom_model_data":83}, "model": "item/weapon/secondary/oldie/running"},
+		{"predicate": {"custom_model_data":84}, "model": "item/weapon/secondary/oldie/equipping"},
+		{"predicate": {"custom_model_data":85}, "model": "item/weapon/secondary/oldie/reloading"},
 
 
 

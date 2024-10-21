@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/weapon/secondary/cower",
+		"particle": "item/weapon/secondary/cower"
+	},
+	"elements": [
+		{
+			"from": [6, 5, 0],
+			"to": [9, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 0]},
+			"faces": {
+				"north": {"uv": [13, 4, 16, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 10, 3], "texture": "#0"},
+				"south": {"uv": [13, 7, 16, 10], "texture": "#0"},
+				"west": {"uv": [0, 3, 10, 6], "texture": "#0"},
+				"up": {"uv": [3, 16, 0, 6], "texture": "#0"},
+				"down": {"uv": [6, 6, 3, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 0, 6],
+			"to": [8.5, 6, 9],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.5, 5, 6]},
+			"faces": {
+				"north": {"uv": [11, 4, 13, 10], "texture": "#0"},
+				"east": {"uv": [6, 10, 9, 16], "texture": "#0"},
+				"south": {"uv": [12, 10, 14, 16], "texture": "#0"},
+				"west": {"uv": [9, 10, 12, 16], "texture": "#0"},
+				"up": {"uv": [16, 13, 14, 10], "texture": "#0"},
+				"down": {"uv": [16, 13, 14, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 2, 3],
+			"to": [7.5, 6, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 5, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"east": {"uv": [6, 6, 11, 10], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"west": {"uv": [10, 0, 15, 4], "texture": "#0"},
+				"up": {"uv": [0, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 1.25],
+			"scale": [0.76, 0.76, 0.76]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 1.25],
+			"scale": [0.76, 0.76, 0.76]
+		},
+		"firstperson_righthand": {
+			"rotation": [-25.94, 32.69, 53.15],
+			"translation": [0, 12, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-25.94, 32.69, 53.15],
+			"translation": [0, 12, 0]
+		},
+		"gui": {
+			"rotation": [-163.56, 52.02, -176.11],
+			"translation": [2.25, 3, 0],
+			"scale": [1.22, 1.22, 1.22]
+		}
+	}
+}
