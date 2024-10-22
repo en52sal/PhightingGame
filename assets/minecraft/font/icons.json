@@ -1,0 +1,11 @@
+{
+    "providers":
+    [
+        {"type": "bitmap", "file": "font/pings/ping.png", "ascent": 8, "height": 24, "chars": ["$"]},
+        {"type": "bitmap", "file": "font/pings/death.png", "ascent": 8, "height": 16, "chars": ["&"]},
+        {"type": "bitmap", "file": "font/pings/danger.png", "ascent": 8, "height": 16, "chars": ["%"]},
+        {"type": "bitmap", "file": "font/pings/down_arrow.png", "ascent": 8, "height": 16, "chars": [")"]}
+
+    ]
+
+}
