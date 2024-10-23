@@ -33,6 +33,7 @@
 		{"predicate": {"custom_model_data":26}, "model": "item/relics/flare_gun/reloading"},
 
 		{"predicate": {"custom_model_data":27}, "model": "item/relics/rocket_boots"},
+		{"predicate": {"custom_model_data":28}, "model": "item/relics/tertiary_boost"},
 
 		{"predicate": {"custom_model_data":100}, "model" : "item/leather_boots"}
 

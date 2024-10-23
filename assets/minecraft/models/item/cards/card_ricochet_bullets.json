@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/cards/card_base",
-    "layer1": "minecraft:item/cards/card_ricochet_bullets"
-  }
-}
