@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ender_eye"
+    },
+
+       "overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/melees/knife/0"},
+	{"predicate": {"custom_model_data":2}, "model": "item/melees/knife/1"},
+
+	{"predicate": {"custom_model_data":3}, "model": "item/melees/sword/0"},
+	{"predicate": {"custom_model_data":4}, "model": "item/melees/sword/1"},
+	{"predicate": {"custom_model_data":5}, "model": "item/melees/sword/2"},
+
+
+
+
+
+
+
+
+
+
+
+	{"predicate": {"custom_model_data":100}, "model": "item/ender_eye"}
+
+    ]
+}
