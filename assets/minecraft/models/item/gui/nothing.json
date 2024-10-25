@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+    	"layer1": "minecraft:item/slot_selected"
+	}
+}

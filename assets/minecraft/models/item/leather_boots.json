@@ -34,6 +34,8 @@
 
 		{"predicate": {"custom_model_data":27}, "model": "item/relics/rocket_boots"},
 		{"predicate": {"custom_model_data":28}, "model": "item/relics/tertiary_boost"},
+		{"predicate": {"custom_model_data":29}, "model": "item/relics/boost_jumper"},
+		{"predicate": {"custom_model_data":30}, "model": "item/relics/glide"},
 
 		{"predicate": {"custom_model_data":100}, "model" : "item/leather_boots"}
 

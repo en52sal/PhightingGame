@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/black_stained_glass"
+    },
+
+       "overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/gui/slot"},
+	{"predicate": {"custom_model_data":2}, "model": "item/gui/slot_selected"},
+	{"predicate": {"custom_model_data":3}, "model": "item/gui/big_slot"},
+	{"predicate": {"custom_model_data":4}, "model": "item/gui/big_slot_selected"},
+
+
+
+
+
+
+
+	{"predicate": {"custom_model_data":100}, "model": "block/black_stained_glass"}
+
+    ]
+}
