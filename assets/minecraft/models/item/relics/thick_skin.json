@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/nothing",
+    "layer1": "minecraft:item/relics/thick_skin"
+  }
+}
