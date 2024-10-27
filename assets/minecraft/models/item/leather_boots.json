@@ -8,6 +8,10 @@
 		{"predicate": {"custom_model_data":2}, "model": "item/relics/superball/main"},
 		{"predicate": {"custom_model_data":3}, "model": "item/relics/stink_bomb/main"},
 		{"predicate": {"custom_model_data":4}, "model": "item/relics/bounce_pad/main"},
+		{"predicate": {"custom_model_data":5}, "model": "item/relics/bounce_pad/launch"},
+
+
+
 
 		{"predicate": {"custom_model_data":11}, "model": "item/relics/flare_gun/default"},
 		{"predicate": {"custom_model_data":12}, "model": "item/relics/flare_gun/firing"},
