@@ -1,0 +1,42 @@
+{
+    "providers":
+    [
+        {"type": "bitmap", "file": "font/relics/bomb_icon.png", "ascent": 12, "height": 16, "chars": ["a"]},
+        {"type": "bitmap", "file": "font/relics/bouncy_bullets.png", "ascent": 12, "height": 16, "chars": ["b"]},
+        {"type": "bitmap", "file": "font/relics/hearty.png", "ascent": 12, "height": 16, "chars": ["c"]},
+        {"type": "bitmap", "file": "font/relics/double_jump.png", "ascent": 12, "height": 16, "chars": ["d"]},
+        {"type": "bitmap", "file": "font/relics/martyrdom.png", "ascent": 12, "height": 16, "chars": ["e"]},
+        {"type": "bitmap", "file": "font/relics/health_bars.png", "ascent": 12, "height": 16, "chars": ["f"]},
+        {"type": "bitmap", "file": "font/relics/quick_reload.png", "ascent": 12, "height": 16, "chars": ["g"]},
+        {"type": "bitmap", "file": "font/relics/bouncy_bullets.png", "ascent": 12, "height": 16, "chars": ["h"]},
+        {"type": "bitmap", "file": "font/relics/better_accuracy.png", "ascent": 12, "height": 16, "chars": ["i"]},
+        {"type": "bitmap", "file": "font/relics/clown_shoes.png", "ascent": 12, "height": 16, "chars": ["j"]},
+        {"type": "bitmap", "file": "font/relics/superball_icon.png", "ascent": 12, "height": 16, "chars": ["k"]},
+        {"type": "bitmap", "file": "font/relics/scramble.png", "ascent": 12, "height": 16, "chars": ["l"]},
+        {"type": "bitmap", "file": "font/relics/stink_bomb_icon.png", "ascent": 12, "height": 16, "chars": ["m"]},
+        {"type": "bitmap", "file": "font/relics/thick_coat.png", "ascent": 12, "height": 16, "chars": ["n"]},
+        {"type": "bitmap", "file": "font/relics/frost_bullets.png", "ascent": 12, "height": 16, "chars": ["o"]},
+        {"type": "bitmap", "file": "font/relics/leech.png", "ascent": 12, "height": 16, "chars": ["p"]},
+        {"type": "bitmap", "file": "font/relics/meteor_shower.png", "ascent": 12, "height": 16, "chars": ["q"]},
+        {"type": "bitmap", "file": "font/relics/ninja.png", "ascent": 12, "height": 16, "chars": ["r"]},
+        {"type": "bitmap", "file": "font/relics/speed.png", "ascent": 12, "height": 16, "chars": ["s"]},
+        {"type": "bitmap", "file": "font/relics/quick_draw.png", "ascent": 12, "height": 16, "chars": ["t"]},
+        {"type": "bitmap", "file": "font/relics/rocket_boots.png", "ascent": 12, "height": 16, "chars": ["u"]},
+        {"type": "bitmap", "file": "font/relics/not_so_friendly_fire.png", "ascent": 12, "height": 16, "chars": ["v"]},
+        {"type": "bitmap", "file": "font/relics/flare_gun_icon.png", "ascent": 12, "height": 16, "chars": ["w"]},
+        {"type": "bitmap", "file": "font/relics/rpg_icon.png", "ascent": 12, "height": 16, "chars": ["x"]},
+        {"type": "bitmap", "file": "font/relics/tertiary_boost.png", "ascent": 12, "height": 16, "chars": ["y"]},
+        {"type": "bitmap", "file": "font/relics/snack.png", "ascent": 12, "height": 16, "chars": ["z"]},
+        {"type": "bitmap", "file": "font/relics/boost_jumper.png", "ascent": 12, "height": 16, "chars": ["A"]},
+        {"type": "bitmap", "file": "font/relics/glide.png", "ascent": 12, "height": 16, "chars": ["B"]},
+        {"type": "bitmap", "file": "font/relics/quick_hands.png", "ascent": 12, "height": 16, "chars": ["C"]},
+        {"type": "bitmap", "file": "font/relics/entrapped.png", "ascent": 12, "height": 16, "chars": ["D"]},
+        {"type": "bitmap", "file": "font/relics/laser_sights.png", "ascent": 12, "height": 16, "chars": ["E"]},
+        {"type": "bitmap", "file": "font/relics/cats.png", "ascent": 12, "height": 16, "chars": ["F"]},
+        {"type": "bitmap", "file": "font/relics/the_skull.png", "ascent": 12, "height": 16, "chars": ["G"]},
+        {"type": "bitmap", "file": "font/relics/thick_skin.png", "ascent": 12, "height": 16, "chars": ["H"]},
+        {"type": "bitmap", "file": "font/relics/bounce_pad_icon.png", "ascent": 12, "height": 16, "chars": ["I"]}
+
+    ]
+
+}
