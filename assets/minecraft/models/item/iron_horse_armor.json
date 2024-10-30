@@ -47,11 +47,11 @@
 		{"predicate": {"custom_model_data":64}, "model": "item/weapon/primary/striker/equipping"},
 		{"predicate": {"custom_model_data":65}, "model": "item/weapon/primary/striker/reloading"},
 
-		{"predicate": {"custom_model_data":71}, "model": "item/weapon/primary/chopper/default"},
-		{"predicate": {"custom_model_data":72}, "model": "item/weapon/primary/chopper/firing"},
-		{"predicate": {"custom_model_data":73}, "model": "item/weapon/primary/chopper/running"},
-		{"predicate": {"custom_model_data":74}, "model": "item/weapon/primary/chopper/equipping"},
-		{"predicate": {"custom_model_data":75}, "model": "item/weapon/primary/chopper/reloading"},
+		{"predicate": {"custom_model_data":71}, "model": "item/weapon/primary/rattle/default"},
+		{"predicate": {"custom_model_data":72}, "model": "item/weapon/primary/rattle/firing"},
+		{"predicate": {"custom_model_data":73}, "model": "item/weapon/primary/rattle/running"},
+		{"predicate": {"custom_model_data":74}, "model": "item/weapon/primary/rattle/equipping"},
+		{"predicate": {"custom_model_data":75}, "model": "item/weapon/primary/rattle/reloading"},
 
 
 

@@ -42,11 +42,11 @@
 		{"predicate": {"custom_model_data":54}, "model": "item/weapon/secondary/cower/equipping"},
 		{"predicate": {"custom_model_data":55}, "model": "item/weapon/secondary/cower/reloading"},
 
-		{"predicate": {"custom_model_data":61}, "model": "item/weapon/secondary/oldie/default"},
-		{"predicate": {"custom_model_data":62}, "model": "item/weapon/secondary/oldie/firing"},
-		{"predicate": {"custom_model_data":63}, "model": "item/weapon/secondary/oldie/running"},
-		{"predicate": {"custom_model_data":64}, "model": "item/weapon/secondary/oldie/equipping"},
-		{"predicate": {"custom_model_data":65}, "model": "item/weapon/secondary/oldie/reloading"},
+		{"predicate": {"custom_model_data":61}, "model": "item/weapon/secondary/powder/default"},
+		{"predicate": {"custom_model_data":62}, "model": "item/weapon/secondary/powder/firing"},
+		{"predicate": {"custom_model_data":63}, "model": "item/weapon/secondary/powder/running"},
+		{"predicate": {"custom_model_data":64}, "model": "item/weapon/secondary/powder/equipping"},
+		{"predicate": {"custom_model_data":65}, "model": "item/weapon/secondary/powder/reloading"},
 
 		{"predicate": {"custom_model_data":71}, "model": "item/weapon/secondary/oldie/default"},
 		{"predicate": {"custom_model_data":72}, "model": "item/weapon/secondary/oldie/firing"},
