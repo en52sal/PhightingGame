@@ -12,8 +12,9 @@
 	{"predicate": {"custom_model_data":4}, "model": "item/melees/sword/1"},
 	{"predicate": {"custom_model_data":5}, "model": "item/melees/sword/2"},
 
-
-
+	{"predicate": {"custom_model_data":6}, "model": "item/melees/baseball_bat/0"},
+	{"predicate": {"custom_model_data":7}, "model": "item/melees/baseball_bat/1"},
+	{"predicate": {"custom_model_data":8}, "model": "item/melees/baseball_bat/2"},
 
 
 

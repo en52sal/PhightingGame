@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/melee/cleaver"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [96.5, 90, 0],
+			"translation": [0, 2.25, 2.75],
+			"scale": [0.61, 0.61, 0.61]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [130.5, -81, 29],
+			"translation": [0, 2.25, 2.75],
+			"scale": [0.61, 0.61, 0.61]
+		},
+		"firstperson_righthand": {
+			"rotation": [138.75, 79, -49.5],
+			"translation": [-0.87, 6.2, 4.63],
+			"scale": [0.84, 0.84, 0.84]
+		},
+		"firstperson_lefthand": {
+			"rotation": [43, -86, -49.5],
+			"translation": [-0.87, 6.2, 4.63],
+			"scale": [0.84, 0.84, 0.84]
+		},
+		"gui": {
+			"translation": [1.25, 0.5, 0],
+			"scale": [1.14, 1.14, 1.14]
+		}
+	}
+}

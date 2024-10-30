@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/melee/hammer"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 4, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 4, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [14, -90, 0],
+			"translation": [1.13, 2.45, 2.88],
+			"scale": [0.91, 0.91, 0.91]
+		},
+		"firstperson_lefthand": {
+			"rotation": [97.75, -90, 0],
+			"translation": [1.13, 2.45, 2.88],
+			"scale": [0.91, 0.91, 0.91]
+		}
+	}
+}

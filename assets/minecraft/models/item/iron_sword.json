@@ -1,0 +1,25 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+
+       "overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/melees/hammer/0"},
+	{"predicate": {"custom_model_data":2}, "model": "item/melees/hammer/1"},
+
+	{"predicate": {"custom_model_data":3}, "model": "item/melees/scythe"},
+
+	{"predicate": {"custom_model_data":4}, "model": "item/melees/cleaver/0"},
+	{"predicate": {"custom_model_data":5}, "model": "item/melees/cleaver/1"},
+
+
+
+
+
+
+
+	{"predicate": {"custom_model_data":100}, "model": "item/iron_sword"}
+
+    ]
+}
