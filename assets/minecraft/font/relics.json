@@ -35,8 +35,17 @@
         {"type": "bitmap", "file": "font/relics/cats.png", "ascent": 12, "height": 16, "chars": ["F"]},
         {"type": "bitmap", "file": "font/relics/the_skull.png", "ascent": 12, "height": 16, "chars": ["G"]},
         {"type": "bitmap", "file": "font/relics/thick_skin.png", "ascent": 12, "height": 16, "chars": ["H"]},
-        {"type": "bitmap", "file": "font/relics/bounce_pad_icon.png", "ascent": 12, "height": 16, "chars": ["I"]}
+        {"type": "bitmap", "file": "font/relics/bounce_pad_icon.png", "ascent": 12, "height": 16, "chars": ["I"]},
 
+        {"type": "bitmap", "file": "font/relics/big_mag.png", "ascent": 12, "height": 16, "chars": ["J"]},
+        {"type": "bitmap", "file": "font/relics/beserker.png", "ascent": 12, "height": 16, "chars": ["K"]},
+        {"type": "bitmap", "file": "font/relics/warcry.png", "ascent": 12, "height": 16, "chars": ["L"]},
+        {"type": "bitmap", "file": "font/relics/ghost.png", "ascent": 12, "height": 16, "chars": ["M"]},
+        {"type": "bitmap", "file": "font/relics/necromancer.png", "ascent": 12, "height": 16, "chars": ["N"]},
+        {"type": "bitmap", "file": "font/relics/skeleton.png", "ascent": 12, "height": 16, "chars": ["O"]},
+        {"type": "bitmap", "file": "font/relics/pumpkin.png", "ascent": 12, "height": 16, "chars": ["P"]},
+        {"type": "bitmap", "file": "font/relics/dizzy_potion.png", "ascent": 12, "height": 16, "chars": ["Q"]},
+        {"type": "bitmap", "file": "font/relics/vanish.png", "ascent": 12, "height": 16, "chars": ["R"]}
     ]
 
 }

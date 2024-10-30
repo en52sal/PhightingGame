@@ -38,7 +38,15 @@
 		{"predicate": {"custom_model_data":32}, "model": "item/relics/thick_skin"},
 		{"predicate": {"custom_model_data":33}, "model": "item/relics/bounce_pad/icon"},
 
-
+		{"predicate": {"custom_model_data":34}, "model": "item/relics/big_mag"},
+		{"predicate": {"custom_model_data":35}, "model": "item/relics/beserker"},
+		{"predicate": {"custom_model_data":36}, "model": "item/relics/warcry"},
+		{"predicate": {"custom_model_data":37}, "model": "item/relics/ghost"},
+		{"predicate": {"custom_model_data":38}, "model": "item/relics/necromancer"},
+		{"predicate": {"custom_model_data":39}, "model": "item/relics/skeleton"},
+		{"predicate": {"custom_model_data":40}, "model": "item/relics/pumpkin"},
+		{"predicate": {"custom_model_data":41}, "model": "item/relics/dizzy_potion"},
+		{"predicate": {"custom_model_data":42}, "model": "item/relics/vanish"},
 
 
 
