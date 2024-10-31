@@ -48,11 +48,11 @@
 		{"predicate": {"custom_model_data":64}, "model": "item/weapon/secondary/powder/equipping"},
 		{"predicate": {"custom_model_data":65}, "model": "item/weapon/secondary/powder/reloading"},
 
-		{"predicate": {"custom_model_data":71}, "model": "item/weapon/secondary/oldie/default"},
-		{"predicate": {"custom_model_data":72}, "model": "item/weapon/secondary/oldie/firing"},
-		{"predicate": {"custom_model_data":73}, "model": "item/weapon/secondary/oldie/running"},
-		{"predicate": {"custom_model_data":74}, "model": "item/weapon/secondary/oldie/equipping"},
-		{"predicate": {"custom_model_data":75}, "model": "item/weapon/secondary/oldie/reloading"},
+		{"predicate": {"custom_model_data":71}, "model": "item/weapon/secondary/betty/default"},
+		{"predicate": {"custom_model_data":72}, "model": "item/weapon/secondary/betty/firing"},
+		{"predicate": {"custom_model_data":73}, "model": "item/weapon/secondary/betty/running"},
+		{"predicate": {"custom_model_data":74}, "model": "item/weapon/secondary/betty/equipping"},
+		{"predicate": {"custom_model_data":75}, "model": "item/weapon/secondary/betty/reloading"},
 
 		{"predicate": {"custom_model_data":81}, "model": "item/weapon/secondary/oldie/default"},
 		{"predicate": {"custom_model_data":82}, "model": "item/weapon/secondary/oldie/firing"},
