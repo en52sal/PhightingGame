@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+	"overrides": [
+
+		{"predicate": {"custom_model_data":1}, "model": "item/relics/ghost/0"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{"predicate": {"custom_model_data":300}, "model" : "item/leather_horse_armor"}
+
+	]
+}

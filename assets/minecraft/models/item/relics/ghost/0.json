@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/relics/ghost/ghost",
+		"particle": "item/relics/ghost/ghost"
+	},
+	"elements": [
+		{
+			"name": "Body",
+			"from": [3.5, 0, 4],
+			"to": [11.5, 18, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.25, 9, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 13], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 4, 4, 13], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [12, 4, 16, 13], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [8, 4, 12, 13], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [176.81, 2.32, 167.12],
+			"translation": [0, -4, 0],
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"translation": [1, -12.5, 0],
+			"scale": [1.98242, 1.98242, 1.98242]
+		}
+	},
+	"groups": [
+		{
+			"name": "Body",
+			"origin": [8, 24, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
