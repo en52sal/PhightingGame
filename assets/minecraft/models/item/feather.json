@@ -47,7 +47,7 @@
 		{"predicate": {"custom_model_data":40}, "model": "item/relics/pumpkin"},
 		{"predicate": {"custom_model_data":41}, "model": "item/relics/dizzy_potion"},
 		{"predicate": {"custom_model_data":42}, "model": "item/relics/vanish"},
-
+		{"predicate": {"custom_model_data":43}, "model": "item/relics/mirage"},
 
 
 
