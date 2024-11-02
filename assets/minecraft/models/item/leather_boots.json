@@ -19,6 +19,13 @@
 		{"predicate": {"custom_model_data":14}, "model": "item/relics/flare_gun/default"},
 		{"predicate": {"custom_model_data":15}, "model": "item/relics/flare_gun/reloading"},
 
+		{"predicate": {"custom_model_data":21}, "model": "item/relics/rpg/default"},
+		{"predicate": {"custom_model_data":22}, "model": "item/relics/rpg/firing"},
+		{"predicate": {"custom_model_data":23}, "model": "item/relics/rpg/default"},
+		{"predicate": {"custom_model_data":24}, "model": "item/relics/rpg/default"},
+		{"predicate": {"custom_model_data":25}, "model": "item/relics/rpg/reloading"},
+		{"predicate": {"custom_model_data":26}, "model": "item/relics/rpg/rocket"},
+
 		{"predicate": {"custom_model_data":100}, "model" : "item/leather_boots"}
 
 	]
