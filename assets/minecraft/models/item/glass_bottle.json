@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/glass_bottle"
+    },
+
+       "overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":2}, "model": "item/spray/iloveendersaltzgame"},
+	{"predicate": {"custom_model_data":3}, "model": "item/spray/liveskullreaction"},
+	{"predicate": {"custom_model_data":4}, "model": "item/spray/deadface"},
+	{"predicate": {"custom_model_data":5}, "model": "item/spray/camper"},
+	{"predicate": {"custom_model_data":6}, "model": "item/spray/item_cleaver"},
+	{"predicate": {"custom_model_data":7}, "model": "item/spray/item_hammer"},
+	{"predicate": {"custom_model_data":8}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":9}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":10}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":11}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":12}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":13}, "model": "item/spray/gr"},
+
+
+
+	{"predicate": {"custom_model_data":100}, "model": "item/glass_bottle"}
+
+    ]
+}

@@ -1,9 +1,0 @@
-{
-    "providers":
-    [
-
-        {"type": "bitmap", "file": "font/cover.png", "ascent": 256, "height": 512, "chars": ["a"]}
-
-    ]
-
-}
