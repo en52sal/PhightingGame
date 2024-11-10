@@ -18,16 +18,12 @@
 		"firstperson_righthand": {
 			"rotation": [138.75, 79, -49.5],
 			"translation": [-0.87, 6.2, 4.63],
-			"scale": [0.84, 0.84, 0.84]
+			"scale": [0.62, 0.62, 0.62]
 		},
 		"firstperson_lefthand": {
 			"rotation": [43, -86, -49.5],
 			"translation": [-0.87, 6.2, 4.63],
-			"scale": [0.84, 0.84, 0.84]
-		},
-		"gui": {
-			"translation": [1.25, 0.5, 0],
-			"scale": [1.14, 1.14, 1.14]
+			"scale": [0.62, 0.62, 0.62]
 		}
 	}
 }
