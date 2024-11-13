@@ -54,11 +54,11 @@
 		{"predicate": {"custom_model_data":74}, "model": "item/weapon/secondary/betty/equipping"},
 		{"predicate": {"custom_model_data":75}, "model": "item/weapon/secondary/betty/reloading"},
 
-		{"predicate": {"custom_model_data":81}, "model": "item/weapon/secondary/oldie/default"},
-		{"predicate": {"custom_model_data":82}, "model": "item/weapon/secondary/oldie/firing"},
-		{"predicate": {"custom_model_data":83}, "model": "item/weapon/secondary/oldie/running"},
-		{"predicate": {"custom_model_data":84}, "model": "item/weapon/secondary/oldie/equipping"},
-		{"predicate": {"custom_model_data":85}, "model": "item/weapon/secondary/oldie/reloading"},
+		{"predicate": {"custom_model_data":81}, "model": "item/weapon/secondary/bowser/default"},
+		{"predicate": {"custom_model_data":82}, "model": "item/weapon/secondary/bowser/firing"},
+		{"predicate": {"custom_model_data":83}, "model": "item/weapon/secondary/bowser/running"},
+		{"predicate": {"custom_model_data":84}, "model": "item/weapon/secondary/bowser/equipping"},
+		{"predicate": {"custom_model_data":85}, "model": "item/weapon/secondary/bowser/reloading"},
 
 
 

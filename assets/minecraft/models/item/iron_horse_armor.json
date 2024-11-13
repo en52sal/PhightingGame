@@ -35,11 +35,11 @@
 		{"predicate": {"custom_model_data":44}, "model": "item/weapon/primary/chopper/equipping"},
 		{"predicate": {"custom_model_data":45}, "model": "item/weapon/primary/chopper/reloading"},
 
-		{"predicate": {"custom_model_data":51}, "model": "item/weapon/primary/chopper/default"},
-		{"predicate": {"custom_model_data":52}, "model": "item/weapon/primary/chopper/firing"},
-		{"predicate": {"custom_model_data":53}, "model": "item/weapon/primary/chopper/running"},
-		{"predicate": {"custom_model_data":54}, "model": "item/weapon/primary/chopper/equipping"},
-		{"predicate": {"custom_model_data":55}, "model": "item/weapon/primary/chopper/reloading"},
+		{"predicate": {"custom_model_data":51}, "model": "item/weapon/primary/vanguard/default"},
+		{"predicate": {"custom_model_data":52}, "model": "item/weapon/primary/vanguard/firing"},
+		{"predicate": {"custom_model_data":53}, "model": "item/weapon/primary/vanguard/running"},
+		{"predicate": {"custom_model_data":54}, "model": "item/weapon/primary/vanguard/equipping"},
+		{"predicate": {"custom_model_data":55}, "model": "item/weapon/primary/vanguard/reloading"},
 
 		{"predicate": {"custom_model_data":61}, "model": "item/weapon/primary/striker/default"},
 		{"predicate": {"custom_model_data":62}, "model": "item/weapon/primary/striker/firing"},
@@ -53,7 +53,11 @@
 		{"predicate": {"custom_model_data":74}, "model": "item/weapon/primary/rattle/equipping"},
 		{"predicate": {"custom_model_data":75}, "model": "item/weapon/primary/rattle/reloading"},
 
-
+		{"predicate": {"custom_model_data":81}, "model": "item/weapon/primary/storm/default"},
+		{"predicate": {"custom_model_data":82}, "model": "item/weapon/primary/storm/firing"},
+		{"predicate": {"custom_model_data":83}, "model": "item/weapon/primary/storm/running"},
+		{"predicate": {"custom_model_data":84}, "model": "item/weapon/primary/storm/equipping"},
+		{"predicate": {"custom_model_data":85}, "model": "item/weapon/primary/storm/reloading"},
 
 
 
