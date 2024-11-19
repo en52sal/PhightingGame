@@ -47,7 +47,8 @@
         {"type": "bitmap", "file": "font/relics/dizzy_potion.png", "ascent": 12, "height": 16, "chars": ["Q"]},
         {"type": "bitmap", "file": "font/relics/vanish.png", "ascent": 12, "height": 16, "chars": ["R"]},
         {"type": "bitmap", "file": "font/relics/mirage.png", "ascent": 12, "height": 16, "chars": ["S"]},
-        {"type": "bitmap", "file": "font/relics/big_bullets.png", "ascent": 12, "height": 16, "chars": ["T"]}
+        {"type": "bitmap", "file": "font/relics/big_bullets.png", "ascent": 12, "height": 16, "chars": ["T"]},
+        {"type": "bitmap", "file": "font/relics/zombie_apocalypse.png", "ascent": 12, "height": 16, "chars": ["U"]}
     ]
 
 }
