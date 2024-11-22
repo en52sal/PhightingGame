@@ -48,7 +48,14 @@
         {"type": "bitmap", "file": "font/relics/vanish.png", "ascent": 12, "height": 16, "chars": ["R"]},
         {"type": "bitmap", "file": "font/relics/mirage.png", "ascent": 12, "height": 16, "chars": ["S"]},
         {"type": "bitmap", "file": "font/relics/big_bullets.png", "ascent": 12, "height": 16, "chars": ["T"]},
-        {"type": "bitmap", "file": "font/relics/zombie_apocalypse.png", "ascent": 12, "height": 16, "chars": ["U"]}
+        {"type": "bitmap", "file": "font/relics/zombie_apocalypse.png", "ascent": 12, "height": 16, "chars": ["U"]},
+        {"type": "bitmap", "file": "font/relics/big_border.png", "ascent": 12, "height": 16, "chars": ["V"]},
+        {"type": "bitmap", "file": "font/relics/randomizer.png", "ascent": 12, "height": 16, "chars": ["W"]},
+        {"type": "bitmap", "file": "font/relics/it_can_wait.png", "ascent": 12, "height": 16, "chars": ["X"]},
+        {"type": "bitmap", "file": "font/relics/resilient.png", "ascent": 12, "height": 16, "chars": ["Y"]},
+        {"type": "bitmap", "file": "font/relics/shrink.png", "ascent": 12, "height": 16, "chars": ["Z"]},
+        {"type": "bitmap", "file": "font/relics/moon_gravity.png", "ascent": 12, "height": 16, "chars": ["1"]},
+        {"type": "bitmap", "file": "font/relics/sponge.png", "ascent": 12, "height": 16, "chars": ["2"]}
     ]
 
 }

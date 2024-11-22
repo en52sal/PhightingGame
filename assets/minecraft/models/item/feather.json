@@ -51,6 +51,14 @@
 		{"predicate": {"custom_model_data":44}, "model": "item/relics/big_bullets"},
 
 		{"predicate": {"custom_model_data":45}, "model": "item/relics/zombie_apocalypse"},
+		{"predicate": {"custom_model_data":46}, "model": "item/relics/big_border"},
+		{"predicate": {"custom_model_data":47}, "model": "item/relics/randomizer"},
+		{"predicate": {"custom_model_data":48}, "model": "item/relics/it_can_wait"},
+		{"predicate": {"custom_model_data":49}, "model": "item/relics/resilient"},
+		{"predicate": {"custom_model_data":50}, "model": "item/relics/shrink"},
+		{"predicate": {"custom_model_data":51}, "model": "item/relics/moon_gravity"},
+		{"predicate": {"custom_model_data":52}, "model": "item/relics/sponge"},
+
 
 
 

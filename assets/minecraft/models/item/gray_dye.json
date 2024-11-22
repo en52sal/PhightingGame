@@ -6,7 +6,8 @@
 
        "overrides": [
 	{"predicate": {"custom_model_data":1}, "model": "item/hats/strawhat"},
-
+	{"predicate": {"custom_model_data":2}, "model": "item/hats/orbiting"},
+	{"predicate": {"custom_model_data":3}, "model": "item/hats/cleaved"},
 
 
 
