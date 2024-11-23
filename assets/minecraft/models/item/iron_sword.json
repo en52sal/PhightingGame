@@ -13,7 +13,8 @@
 	{"predicate": {"custom_model_data":4}, "model": "item/melees/cleaver/0"},
 	{"predicate": {"custom_model_data":5}, "model": "item/melees/cleaver/1"},
 
-
+	{"predicate": {"custom_model_data":6}, "model": "item/melees/spear/0"},
+	{"predicate": {"custom_model_data":7}, "model": "item/melees/spear/1"},
 
 
 
