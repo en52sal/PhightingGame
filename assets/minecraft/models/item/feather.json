@@ -58,7 +58,7 @@
 		{"predicate": {"custom_model_data":50}, "model": "item/relics/shrink"},
 		{"predicate": {"custom_model_data":51}, "model": "item/relics/moon_gravity"},
 		{"predicate": {"custom_model_data":52}, "model": "item/relics/sponge"},
-
+		{"predicate": {"custom_model_data":53}, "model": "item/relics/wind_charge"},
 
 
 
