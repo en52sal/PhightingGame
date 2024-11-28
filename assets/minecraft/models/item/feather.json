@@ -59,7 +59,7 @@
 		{"predicate": {"custom_model_data":51}, "model": "item/relics/moon_gravity"},
 		{"predicate": {"custom_model_data":52}, "model": "item/relics/sponge"},
 		{"predicate": {"custom_model_data":53}, "model": "item/relics/wind_charge"},
-
+		{"predicate": {"custom_model_data":54}, "model": "item/relics/parting_gift"},
 
 
 		{"predicate": {"custom_model_data":100}, "model" : "item/feather"}
