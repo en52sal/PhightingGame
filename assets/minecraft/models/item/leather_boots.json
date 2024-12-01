@@ -26,6 +26,9 @@
 		{"predicate": {"custom_model_data":25}, "model": "item/relics/rpg/reloading"},
 		{"predicate": {"custom_model_data":26}, "model": "item/relics/rpg/rocket"},
 
+		{"predicate": {"custom_model_data":27}, "model": "item/relics/freeze_bomb/main"},
+
+
 		{"predicate": {"custom_model_data":100}, "model" : "item/leather_boots"}
 
 	]

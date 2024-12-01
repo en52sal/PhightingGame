@@ -60,7 +60,8 @@
 		{"predicate": {"custom_model_data":52}, "model": "item/relics/sponge"},
 		{"predicate": {"custom_model_data":53}, "model": "item/relics/wind_charge"},
 		{"predicate": {"custom_model_data":54}, "model": "item/relics/parting_gift"},
-
+		{"predicate": {"custom_model_data":55}, "model": "item/relics/killrift"},
+		{"predicate": {"custom_model_data":56}, "model": "item/relics/freeze_bomb/icon"},
 
 		{"predicate": {"custom_model_data":100}, "model" : "item/feather"}
 
