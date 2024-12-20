@@ -15,8 +15,9 @@
 	{"predicate": {"custom_model_data":6}, "model": "item/melees/baseball_bat/0"},
 	{"predicate": {"custom_model_data":7}, "model": "item/melees/baseball_bat/1"},
 
-
-
+	{"predicate": {"custom_model_data":8}, "model": "item/melees/chainsaw/0"},
+	{"predicate": {"custom_model_data":9}, "model": "item/melees/chainsaw/1"},
+	{"predicate": {"custom_model_data":10}, "model": "item/melees/chainsaw/2"},
 
 
 

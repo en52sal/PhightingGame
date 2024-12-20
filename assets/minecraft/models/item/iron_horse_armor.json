@@ -59,10 +59,18 @@
 		{"predicate": {"custom_model_data":84}, "model": "item/weapon/primary/storm/equipping"},
 		{"predicate": {"custom_model_data":85}, "model": "item/weapon/primary/storm/reloading"},
 
+		{"predicate": {"custom_model_data":91}, "model": "item/weapon/primary/nailer/default"},
+		{"predicate": {"custom_model_data":92}, "model": "item/weapon/primary/nailer/firing"},
+		{"predicate": {"custom_model_data":93}, "model": "item/weapon/primary/nailer/running"},
+		{"predicate": {"custom_model_data":94}, "model": "item/weapon/primary/nailer/equipping"},
+		{"predicate": {"custom_model_data":95}, "model": "item/weapon/primary/nailer/reloading"},
+		{"predicate": {"custom_model_data":96}, "model": "item/weapon/primary/nailer/nail"},
 
-
-
-
+		{"predicate": {"custom_model_data":101}, "model": "item/weapon/primary/quasar/default"},
+		{"predicate": {"custom_model_data":102}, "model": "item/weapon/primary/quasar/firing"},
+		{"predicate": {"custom_model_data":103}, "model": "item/weapon/primary/quasar/running"},
+		{"predicate": {"custom_model_data":104}, "model": "item/weapon/primary/quasar/equipping"},
+		{"predicate": {"custom_model_data":105}, "model": "item/weapon/primary/quasar/reloading"},
 
 
 

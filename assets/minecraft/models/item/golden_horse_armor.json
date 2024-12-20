@@ -60,9 +60,17 @@
 		{"predicate": {"custom_model_data":84}, "model": "item/weapon/secondary/bowser/equipping"},
 		{"predicate": {"custom_model_data":85}, "model": "item/weapon/secondary/bowser/reloading"},
 
+		{"predicate": {"custom_model_data":91}, "model": "item/weapon/secondary/hush/default"},
+		{"predicate": {"custom_model_data":92}, "model": "item/weapon/secondary/hush/firing"},
+		{"predicate": {"custom_model_data":93}, "model": "item/weapon/secondary/hush/running"},
+		{"predicate": {"custom_model_data":94}, "model": "item/weapon/secondary/hush/equipping"},
+		{"predicate": {"custom_model_data":95}, "model": "item/weapon/secondary/hush/reloading"},
 
-
-
+		{"predicate": {"custom_model_data":101}, "model": "item/weapon/secondary/piercer/default"},
+		{"predicate": {"custom_model_data":102}, "model": "item/weapon/secondary/piercer/firing"},
+		{"predicate": {"custom_model_data":103}, "model": "item/weapon/secondary/piercer/running"},
+		{"predicate": {"custom_model_data":104}, "model": "item/weapon/secondary/piercer/equipping"},
+		{"predicate": {"custom_model_data":105}, "model": "item/weapon/secondary/piercer/reloading"},
 
 
 
