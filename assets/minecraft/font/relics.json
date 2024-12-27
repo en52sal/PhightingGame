@@ -59,7 +59,8 @@
         {"type": "bitmap", "file": "font/relics/wind_charge.png", "ascent": 12, "height": 16, "chars": ["3"]},
         {"type": "bitmap", "file": "font/relics/parting_gift.png", "ascent": 12, "height": 16, "chars": ["4"]},
         {"type": "bitmap", "file": "font/relics/killrift.png", "ascent": 12, "height": 16, "chars": ["5"]},
-        {"type": "bitmap", "file": "font/relics/freeze_bomb_icon.png", "ascent": 12, "height": 16, "chars": ["6"]}
+        {"type": "bitmap", "file": "font/relics/freeze_bomb_icon.png", "ascent": 12, "height": 16, "chars": ["6"]},
+        {"type": "bitmap", "file": "font/relics/runngun.png", "ascent": 12, "height": 16, "chars": ["7"]}
     ]
 
 }
