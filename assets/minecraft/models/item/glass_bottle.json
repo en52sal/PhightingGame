@@ -23,9 +23,19 @@
 	{"predicate": {"custom_model_data":16}, "model": "item/spray/full_health"},
 	{"predicate": {"custom_model_data":17}, "model": "item/spray/aced_it"},
 	{"predicate": {"custom_model_data":18}, "model": "item/spray/tripping_hazard"},
-	{"predicate": {"custom_model_data":19}, "model": "item/spray/gr"},
-	{"predicate": {"custom_model_data":20}, "model": "item/spray/gr"},
-	{"predicate": {"custom_model_data":21}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":19}, "model": "item/spray/exploding_head"},
+	{"predicate": {"custom_model_data":20}, "model": "item/spray/mvp"},
+	{"predicate": {"custom_model_data":21}, "model": "item/spray/shotgunned"},
+	{"predicate": {"custom_model_data":22}, "model": "item/spray/chalk_outline"},
+	{"predicate": {"custom_model_data":23}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":24}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":25}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":26}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":27}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":28}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":29}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":30}, "model": "item/spray/gr"},
+	{"predicate": {"custom_model_data":31}, "model": "item/spray/gr"},
 
 
 

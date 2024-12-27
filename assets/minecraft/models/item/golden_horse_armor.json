@@ -72,7 +72,11 @@
 		{"predicate": {"custom_model_data":104}, "model": "item/weapon/secondary/piercer/equipping"},
 		{"predicate": {"custom_model_data":105}, "model": "item/weapon/secondary/piercer/reloading"},
 
-
+		{"predicate": {"custom_model_data":111}, "model": "item/weapon/secondary/outline/default"},
+		{"predicate": {"custom_model_data":112}, "model": "item/weapon/secondary/outline/firing"},
+		{"predicate": {"custom_model_data":113}, "model": "item/weapon/secondary/outline/running"},
+		{"predicate": {"custom_model_data":114}, "model": "item/weapon/secondary/outline/equipping"},
+		{"predicate": {"custom_model_data":115}, "model": "item/weapon/secondary/outline/reloading"},
 
 
 
