@@ -79,7 +79,11 @@
 		{"predicate": {"custom_model_data":115}, "model": "item/weapon/primary/bolt/reloading"},
 		{"predicate": {"custom_model_data":116}, "model": "item/weapon/primary/bolt/bolt"},
 
-
+		{"predicate": {"custom_model_data":121}, "model": "item/weapon/primary/doubler/default"},
+		{"predicate": {"custom_model_data":122}, "model": "item/weapon/primary/doubler/firing"},
+		{"predicate": {"custom_model_data":123}, "model": "item/weapon/primary/doubler/running"},
+		{"predicate": {"custom_model_data":124}, "model": "item/weapon/primary/doubler/equipping"},
+		{"predicate": {"custom_model_data":125}, "model": "item/weapon/primary/doubler/reloading"},
 
 
 

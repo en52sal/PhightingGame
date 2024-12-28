@@ -172,6 +172,16 @@
 		]
 	},
 
+	"pan":
+	{
+		"sounds":[
+		{"name":"items/pan_1"},
+		{"name":"items/pan_2"},
+		{"name":"items/pan_3"},
+		{"name":"items/pan_4"}
+		]
+	},
+
 	"kiss":
 	{
 		"sounds":[
