@@ -164,6 +164,17 @@
 		{"name":"items/smokealarm"}
 		]
 	},
+
+	"sfx.win":{"sounds":[{"name":"sfx/winner"}]},
+	"sfx.lose":{"sounds":[{"name":"sfx/loser"}]},
+	"sfx.draw":{"sounds":[{"name":"sfx/draw"}]},
+	"sfx.kill1":{"sounds":[{"name":"sfx/kill1"}]},
+	"sfx.kill2":{"sounds":[{"name":"sfx/kill2"}]},
+	"sfx.kill3":{"sounds":[{"name":"sfx/kill3"}]},
+	"sfx.kill4":{"sounds":[{"name":"sfx/kill4"}]},
+	"sfx.ace":{"sounds":[{"name":"sfx/ace"}]},
+	"sfx.overkill":{"sounds":[{"name":"sfx/overkill"}]},
+
 	"honk":
 	{
 		"sounds":[
