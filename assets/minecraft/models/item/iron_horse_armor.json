@@ -98,6 +98,12 @@
 		{"predicate": {"custom_model_data":144}, "model": "item/weapon/primary/charger/equipping"},
 		{"predicate": {"custom_model_data":145}, "model": "item/weapon/primary/charger/reloading"},
 
+		{"predicate": {"custom_model_data":151}, "model": "item/weapon/primary/ringer/default"},
+		{"predicate": {"custom_model_data":152}, "model": "item/weapon/primary/ringer/firing"},
+		{"predicate": {"custom_model_data":153}, "model": "item/weapon/primary/ringer/running"},
+		{"predicate": {"custom_model_data":154}, "model": "item/weapon/primary/ringer/equipping"},
+		{"predicate": {"custom_model_data":155}, "model": "item/weapon/primary/ringer/reloading"},
+
 
 
 
