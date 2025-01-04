@@ -85,8 +85,18 @@
 		{"predicate": {"custom_model_data":124}, "model": "item/weapon/primary/doubler/equipping"},
 		{"predicate": {"custom_model_data":125}, "model": "item/weapon/primary/doubler/reloading"},
 
+		{"predicate": {"custom_model_data":131}, "model": "item/weapon/primary/sploder/default"},
+		{"predicate": {"custom_model_data":132}, "model": "item/weapon/primary/sploder/firing"},
+		{"predicate": {"custom_model_data":133}, "model": "item/weapon/primary/sploder/running"},
+		{"predicate": {"custom_model_data":134}, "model": "item/weapon/primary/sploder/equipping"},
+		{"predicate": {"custom_model_data":135}, "model": "item/weapon/primary/sploder/reloading"},
+		{"predicate": {"custom_model_data":136}, "model": "item/weapon/primary/sploder/grenade"},
 
-
+		{"predicate": {"custom_model_data":141}, "model": "item/weapon/primary/charger/default"},
+		{"predicate": {"custom_model_data":142}, "model": "item/weapon/primary/charger/firing"},
+		{"predicate": {"custom_model_data":143}, "model": "item/weapon/primary/charger/running"},
+		{"predicate": {"custom_model_data":144}, "model": "item/weapon/primary/charger/equipping"},
+		{"predicate": {"custom_model_data":145}, "model": "item/weapon/primary/charger/reloading"},
 
 
 
