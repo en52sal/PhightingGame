@@ -24,6 +24,12 @@
 
 	{"predicate": {"custom_model_data":12}, "model": "item/melees/katana"},
 
+	{"predicate": {"custom_model_data":13}, "model": "item/melees/halberd/0"},
+	{"predicate": {"custom_model_data":14}, "model": "item/melees/halberd/1"},
+
+	{"predicate": {"custom_model_data":15}, "model": "item/melees/pickaxe/0"},
+	{"predicate": {"custom_model_data":16}, "model": "item/melees/pickaxe/1"},
+
 	{"predicate": {"custom_model_data":100}, "model": "item/iron_sword"}
 
     ]

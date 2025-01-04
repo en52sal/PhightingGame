@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/melee/halberd"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-35, -90, 0],
+			"translation": [0, 3.75, 2.5],
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-35, 90, 0],
+			"translation": [0, 3.75, 2.5],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-128.25, -74.13, 1.74],
+			"translation": [2.38, 4.95, 1.88],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [80.58, 80, 137.98],
+			"translation": [2.38, 4.95, 1.88],
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"scale": [1.13, 1.13, 1.13]
+		}
+	}
+}
