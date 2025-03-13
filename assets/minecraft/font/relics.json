@@ -63,7 +63,9 @@
         {"type": "bitmap", "file": "font/relics/runngun.png", "ascent": 12, "height": 16, "chars": ["7"]},
         {"type": "bitmap", "file": "font/relics/tempo.png", "ascent": 12, "height": 16, "chars": ["8"]},
         {"type": "bitmap", "file": "font/relics/got_your_back.png", "ascent": 12, "height": 16, "chars": ["9"]},
-        {"type": "bitmap", "file": "font/relics/avenge_me.png", "ascent": 12, "height": 16, "chars": ["!"]}
+        {"type": "bitmap", "file": "font/relics/avenge_me.png", "ascent": 12, "height": 16, "chars": ["!"]},
+        {"type": "bitmap", "file": "font/relics/sonar_grenade_icon.png", "ascent": 12, "height": 16, "chars": ["@"]},
+        {"type": "bitmap", "file": "font/relics/sticky_grenade_icon.png", "ascent": 12, "height": 16, "chars": ["#"]}
     ]
 
 }

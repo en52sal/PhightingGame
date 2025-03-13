@@ -67,6 +67,9 @@
 		{"predicate": {"custom_model_data":59}, "model": "item/relics/got_your_back"},
 		{"predicate": {"custom_model_data":60}, "model": "item/relics/avenge_me"},
 
+		{"predicate": {"custom_model_data":61}, "model": "item/relics/sonar_grenade/icon"},
+		{"predicate": {"custom_model_data":62}, "model": "item/relics/sticky_grenade/icon"},
+
 		{"predicate": {"custom_model_data":100}, "model" : "item/feather"}
 
 	]
