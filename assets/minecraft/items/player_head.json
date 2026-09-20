@@ -2,6 +2,32 @@
   "model": {
     "type": "minecraft:range_dispatch",
     "property": "minecraft:custom_model_data",
+
+    "transformation": {
+      "left_rotation": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "right_rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "translation": [
+        0.5,
+        0,
+        0.5
+      ]
+    },
+
     "fallback": {
       "type": "minecraft:special",
       "model": {
@@ -9,6 +35,7 @@
       },
       "base": "minecraft:item/gui/guihead"
     },
+
     "entries": [
       {
         "threshold": 1,
